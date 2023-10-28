@@ -20,7 +20,7 @@ namespace WinForm1
         private void button1_Click(object sender, EventArgs e)
         {
             k=k+1;
-            label1.Text = "new pressed " + k + "  times";
+            label1.Text = "pressed " + k + "  times";
         }
     }
 }
