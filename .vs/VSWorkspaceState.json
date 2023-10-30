@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Forms",
+    "\\Forms\\WinForm1"
   ],
+  "SelectedNode": "\\Forms\\WinForm1\\WinForm1.sln",
   "PreviewInSolutionExplorer": false
 }
