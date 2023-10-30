@@ -1,0 +1,9 @@
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\bin\Release\WinForm1.exe
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\bin\Release\WinForm1.pdb
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.csproj.AssemblyReference.cache
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.Form1.resources
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.Properties.Resources.resources
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.csproj.GenerateResource.cache
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.csproj.CoreCompileInputs.cache
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.exe
+H:\my_vs_project\Forms\WinForms\Forms\WinForm1\WinForm1\obj\Release\WinForm1.pdb
